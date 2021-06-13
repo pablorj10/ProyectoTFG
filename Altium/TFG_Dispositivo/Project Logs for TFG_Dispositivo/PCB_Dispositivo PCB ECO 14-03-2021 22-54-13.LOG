@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=IC1-31
+Added Pin To Net: NetName=INT1 Pin=IC1-21
+Added Pin To Net: NetName=INT1 Pin=IC2-8
+Added Net: Name=INT1

@@ -1,0 +1,12 @@
+Change Physical Footprint: Designator=C1 Old Footprint=CAPC2012X98N New Footprint=CAPC2012X98N
+Change Physical Footprint: Designator=C2 Old Footprint=CAPC1608X90N New Footprint=CAPC1608X90N
+Change Physical Footprint: Designator=C3 Old Footprint=CAPC2012X98N New Footprint=CAPC2012X98N
+Change Physical Footprint: Designator=IC1 Old Footprint=RAK4600 New Footprint=RAK4600
+Change Physical Footprint: Designator=IC2 Old Footprint=ADXL345BCCZRL New Footprint=ADXL345BCCZRL
+Change Physical Footprint: Designator=R1 Old Footprint=RESC1005X35N New Footprint=RESC1005X35N
+Change Physical Footprint: Designator=R2 Old Footprint=RESC1005X35N New Footprint=RESC1005X35N
+Change Physical Footprint: Designator=R3 Old Footprint=RESC1005X35N New Footprint=RESC1005X35N
+Change Physical Footprint: Designator=R4 Old Footprint=RESC1005X35N New Footprint=RESC1005X35N
+Change Physical Footprint: Designator=SWD Old Footprint=HDR1X4 New Footprint=HDR1X4
+Change Physical Footprint: Designator=U1 Old Footprint=1013 New Footprint=1013
+Change Physical Footprint: Designator=UART Old Footprint=HDR1X4 New Footprint=HDR1X4

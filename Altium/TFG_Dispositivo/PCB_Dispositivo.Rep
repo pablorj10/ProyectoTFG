@@ -1,0 +1,48 @@
+Export log for : PCB_Dispositivo.Rep
+AddingPadStyle (Default)
+AddingPadStyle P:EX39Y39D591
+AddingPadStyle P:EX70Y70D471
+AddingPadStyle P:EX39Y39D781
+AddingPadStyle EF28X24TOP1
+AddingPadStyle P:EX59Y59D351
+AddingPadStyle P:SX59Y59D351
+AddingPadStyle EF45X22TOP1
+AddingPadStyle EF75X28TOP1
+AddingPadStyle EF62X43TOP1
+AddingPadStyle EF39X31TOP1
+Adding ViaStyle (Default)
+Adding ViaStyle V:EX50Y50D281
+Adding TextStyle (Default)
+Adding TextStyle T:H60W10
+Adding TextStyle T:H30W10
+Adding TextStyle T:H20W6
+Adding TextStyle T:H39W10
+Adding TextStyle T:H49W10
+Adding PatternDef 1013_1
+Adding PatternDef RESC1005X35N_1
+Adding PatternDef RESC1005X35N_2
+Adding PatternDef RESC1005X35N_3
+Adding PatternDef RESC1005X35N_4
+Adding PatternDef HDR1X4_1
+Adding PatternDef HDR1X4_2
+Adding PatternDef ADXL345BCCZRL_1
+Adding PatternDef RAK4600_1
+Adding PatternDef CAPC2012X98N_1
+Adding PatternDef CAPC1608X90N_1
+Adding PatternDef CAPC2012X98N_2
+Adding CompDef 1013_1
+Adding CompDef RESC1005X35N_1
+Adding CompDef RESC1005X35N_2
+Adding CompDef RESC1005X35N_3
+Adding CompDef RESC1005X35N_4
+Adding CompDef HDR1X4_1
+Adding CompDef HDR1X4_2
+Adding CompDef ADXL345BCCZRL_1
+Adding CompDef RAK4600_1
+Adding CompDef CAPC2012X98N_1
+Adding CompDef CAPC1608X90N_1
+Adding CompDef CAPC2012X98N_2
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+ 
+EndLog

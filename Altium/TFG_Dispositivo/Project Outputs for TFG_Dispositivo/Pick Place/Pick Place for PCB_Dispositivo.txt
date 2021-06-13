@@ -1,0 +1,25 @@
+Altium Designer Pick and Place Locations
+C:\Users\Jose Antonio\Desktop\TFGPABLO\DISEÑO\TFG_Dispositivo\Project Outputs for TFG_Dispositivo\Pick Place\Pick Place for PCB_Dispositivo.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       25/03/21
+Time:       15:45
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment        Layer       Footprint     Center-X(mm) Center-Y(mm) Rotation Description                  
+U1         1013           BottomLayer 1013          17.6034      32.0077      270      "Undefined or Miscellaneous" 
+R4         10k            TopLayer    RESC1005X35N  27.5000      41.5000      180      Resistor                     
+R3         10k            TopLayer    RESC1005X35N  30.5000      41.5000      0        Resistor                     
+R2         10k            TopLayer    RESC1005X35N  30.5000      40.0000      180      Resistor                     
+R1         10k            TopLayer    RESC1005X35N  27.5000      40.0000      0        Resistor                     
+UART       "Header 4"     TopLayer    HDR1X4        16.7640      43.4340      360      "Header, 4-Pin"              
+SWD        "Header 4"     TopLayer    HDR1X4        16.7640      48.3870      360      "Header, 4-Pin"              
+ADXL345    ADXL345BCCZ-RL TopLayer    ADXL345BCCZRL 21.0000      57.0001      270      "Integrated Circuit"         
+RAK4600    RAK4600        TopLayer    RAK4600       21.8500      20.0410      270      "Integrated Circuit"         
+C3         0.1u           TopLayer    CAPC2012X98N  28.0000      48.5000      180      Capacitor                    
+C2         10u            TopLayer    CAPC1608X90N  28.5000      43.4999      180      Capacitor                    
+C1         0.1u           TopLayer    CAPC2012X98N  28.0000      46.0000      180      Capacitor                    

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: PCB_Dispositivo.GBR   25/03/2021  15:45:07
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Layer                               
+.gbr                Bottom Layer                            
+.gbr                Bottom Pad Master                       
+.gbr                Top Pad Master                          
+.gbr                Bottom Overlay                          
+.gbr                Bottom Solder                           
+.gbr                Top Overlay                             
+.gbr                Top Solder                              
+.gbr                Keep-Out Layer                          
+.gbr                Mechanical 13                           
+.gbr                Mechanical 1                            
+.gbr                Mechanical 15                           
+.gbr                Profile                                 
+------------------------------------------------------------------------------------------
